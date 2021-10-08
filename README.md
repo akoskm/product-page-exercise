@@ -1,9 +1,9 @@
 ## Goal
 Create the Admin Panel of an Online Store.
 
-## Backend setup (~15 min)
+## Backend setup
 
-Use https://nacapi.com/ to create a backend API.
+Use https://nacapi.com/ to create a backend API, this should take a few minutes.
 
 <details>
 
