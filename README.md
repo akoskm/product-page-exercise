@@ -1,12 +1,13 @@
+## Goal
+Create the Admin Panel of an Online Store.
 
-Backend API: https://nacapi.com/p/Scrambler-Cyan.
+## Backend
 
-Documentation: https://nacapi.com/p/Scrambler-Cyan#documentation.
+Use https://nacapi.com/ to create a backend API.
 
 <details>
-  <summary>What if the above link is already expired?</summary>
 
-  Create a new dummy backend on: https://nacapi.com/ with the following dataset.
+  <summary>You can use the following dataset</summary>
 
   ```json
   {
@@ -37,12 +38,9 @@ Documentation: https://nacapi.com/p/Scrambler-Cyan#documentation.
   ```
 </details>
 
-
-## Goal
-Create the Admin Panel of an Online Store.
-
 ## Expectations
 Using the provided API to create a prototype of an admin panel where the store owner can manage digital subscriptions.
+
 The prototype should contain pages for:
 
  - listing all products
