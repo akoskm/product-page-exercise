@@ -50,9 +50,9 @@ The prototype should contain pages for:
 Identify two features that would be useful to have in the admin panel and implement them.
 Explain why they would be useful.
 
-If you want to add more fields to the products, just create a different JSON backend and add the fields you want.
+If you want to add more fields to the products, feel free to modify your backend.
 
-## Deliverable
+## Deliverables
  - a source code in a GitHub repository.
  - the application hosted on Heroku (free tier).
 
@@ -61,7 +61,7 @@ If you want to add more fields to the products, just create a different JSON bac
  - https://blueprintjs.com/ for the UI
  - create-react-app to initialize the project
 
-### Not use:
+### Do not use:
   - state management libraries, Redux, Flow, etc
 
 ### Would be cool to use:
