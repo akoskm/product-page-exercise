@@ -4,7 +4,7 @@ Backend API: https://nacapi.com/p/Scrambler-Cyan.
 Documentation: https://nacapi.com/p/Scrambler-Cyan#documentation.
 
 <details>
-  <summary>What if this is already expired</summary>
+  <summary>What if the above link is already expired?</summary>
 
   Create a new dummy backend on: https://nacapi.com/ with the following dataset.
 
