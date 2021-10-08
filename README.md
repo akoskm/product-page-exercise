@@ -1,7 +1,7 @@
 ## Goal
 Create the Admin Panel of an Online Store.
 
-## Backend
+## Backend setup (~15 min)
 
 Use https://nacapi.com/ to create a backend API.
 
@@ -38,7 +38,7 @@ Use https://nacapi.com/ to create a backend API.
   ```
 </details>
 
-## Expectations
+## Objectives
 Using the provided API to create a prototype of an admin panel where the store owner can manage digital subscriptions.
 
 The prototype should contain pages for:
