@@ -56,6 +56,7 @@ Explain why they would be useful.
  - the application hosted on Heroku (free tier).
 
 ### Use:
+ - React
  - https://blueprintjs.com/ for the UI
  - create-react-app to initialize the project
 
