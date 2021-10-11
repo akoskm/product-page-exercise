@@ -52,6 +52,8 @@ Explain why they would be useful.
 
 If you want to add more fields to the products, feel free to modify your backend.
 
+For this exercise, code quality and UX matters, UI doesn't.
+
 ## Deliverables
  - a source code in a GitHub repository.
  - the application hosted on Heroku (free tier).
