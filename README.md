@@ -46,6 +46,7 @@ The prototype should contain pages for:
  - listing all products
  - editing products (Price, Discount, Price label, etc)
  - adding new products
+ - use the backend API to modify the data
 
 Identify two features that would be useful to have in the admin panel and implement them.
 Explain why they would be useful.
