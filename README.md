@@ -63,6 +63,7 @@ For this exercise, code quality and UX matters, UI doesn't.
  - React
  - https://blueprintjs.com/ for the UI
  - create-react-app to initialize the project
+ - Use the API to modify backend data (ie. don't save it to Local Storage and modify it offline)
 
 ### Do not use:
   - state management libraries, Redux, Flow, etc
