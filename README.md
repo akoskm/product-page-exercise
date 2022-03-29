@@ -67,6 +67,7 @@ For this exercise, code quality and UX matters, UI doesn't.
 
 ### Do not use:
   - state management libraries, Redux, Flow, etc
+  - UI libraries other than Blueprint
 
 ### Would be cool to use:
   - React Hooks
